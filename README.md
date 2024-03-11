@@ -53,7 +53,7 @@ CMU
 
 ## Large Language Models
 Company | Model | Release Date | Link | Model Size | # Training Tokens| token context window | Strength |
-| :-----: | :---------------: | :--------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------: | :---------: | :---------: | :---------: |
+| :-----: | :---------------: | :--------------: | :-------------- | :---------: | :---------: | :---------: | :---------: |
 | OpenAI | GPT-3 | |[paper](https://arxiv.org/abs/2005.14165) | | | | |
 | OpenAI | GPT-4 | Mar 14, 2023 | [Official](https://openai.com/research/gpt-4) | N/A | N/A | N/A |
 | Meta | LLaMA | February 24, 2023 | [Official](https://ai.meta.com/blog/large-language-model-llama-meta-ai/) [code](https://github.com/facebookresearch/llama/tree/main)|  N/A | N/A | N/A |
@@ -72,6 +72,7 @@ Company | Model | Release Date | Link | Model Size | # Training Tokens| token co
 ## Image generative models
 
 Company | Model | Release Date | Link | Model Size | Image size | Strength |
+| :-----: | :---------------: | :--------------: | :-------------- | :---------: | :---------: | :---------: |
 | OpenAI | DALL-E | January 5, 2021 | [Official](https://openai.com/research/dall-e) | N/A | N/A |
 | OpenAI | DALL-E 2 | Jun 28, 2022 | [Official](https://openai.com/research/dall-e-2-pre-training-mitigations) | N/A | N/A |
 | OpenAI | DALL-E 3 | Oct 3, 2023 | [Official](https://openai.com/research/dall-e-3-system-card) | N/A | N/A |
@@ -84,7 +85,8 @@ Company | Model | Release Date | Link | Model Size | Image size | Strength |
 2. side-by-side human evaluation on DrawBench
 
 ## Video generative models
-Company | Model | Link | Release Date | Strength |
+Company | Model | Release Date | Link | Strength |
+| :-----: | :------------: | :-----------: | :----------- | :---------: |
 | OpenAI | SORA | Feb 15, 2024 | [Official](https://openai.com/research/video-generation-models-as-world-simulators) | N/A |
 
 ## Robotics 
