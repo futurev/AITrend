@@ -63,7 +63,8 @@ Company | Model | Release Date | Link | Model Size | # Training Tokens| token co
 | Deep Mind | Gemini (Ultra, Pro, Nano ) | Dec 06, 2023 | [Official](https://blog.google/technology/ai/google-gemini-ai/) | | | multimodal model:text, images, audio, video, and code|
 | Deep Mind | Gemini 1.5 | Feb 15, 2024| [Official](https://blog.google/technology/ai/google-gemini-next-generation-model-february-2024/?utm_source=gdm&utm_medium=referral&utm_campaign=gemini24) | | | 128,000 token context window up to 1 million tokens| [Mixture of Experts](https://arxiv.org/abs/1701.06538) |
 | Deep Mind | Gemma | | [Official](https://blog.google/technology/developers/gemma-open-models/) [colab](https://ai.google.dev/gemma/docs/get_started) | | |
-| Anthropic | Claude | | Official | | |
+| Anthropic | Claude 2 | Jul 11, 2023 | [Official](https://www.anthropic.com/news/claude-2) |
+| Anthropic | Claude 3 | Mar 4, 2024 | [Official](https://www.anthropic.com/news/claude-3-family) | | |
 
 ### LLM benchmarks
 
