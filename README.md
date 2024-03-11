@@ -91,7 +91,8 @@ Company | Model | Release Date | Link | Strength |
 
 ## Robotics 
 
-Company | Model | Link | Release Date | Strength |
+Company | Model | Release Date  | Link |  Strength |
+| :-----: | :------------: | :-----------: | :----------- | :---------: |
 | DeepMind |  AutoRT, SARA-RT, and RT-Trajectory | [Official](https://deepmind.google/discover/blog/shaping-the-future-of-advanced-robotics/) | 4 JANUARY 2024 | N/A |
 | Covariant | RFM-1 | [Official](https://covariant.ai/insights/introducing-rfm-1-giving-robots-human-like-reasoning-capabilities/) | March 11, 2024 | N/A |
 
