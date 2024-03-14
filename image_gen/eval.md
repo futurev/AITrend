@@ -1,3 +1,6 @@
+[Denoising Diffusion Probabilistic Models](https://arxiv.org/pdf/2006.11239.pdf)
+[DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation](https://arxiv.org/pdf/2208.12242.pdf)
+
 # Evaluation
 
 <img width="687" alt="Screenshot 2024-03-14 at 3 34 25 PM" src="https://github.com/futurev/AITrend/assets/18621736/4496d05b-5d14-4dea-81b2-e78ff5acbb0d">
