@@ -2,6 +2,9 @@
 
 Try to track the latest trend in AI from several major players and emerging startups.
 
+## ref
+https://huyenchip.com/2024/03/14/ai-oss.html
+
 ### Topics
 Large Language Models, Image/Video Generative Models, Robotics, Computer Vision Models, World Models, and AI Applications, with benchmarking metrics and results
 
@@ -53,7 +56,7 @@ CMU
 
 ## Large Language Models
 Company | Model | Release Date | Link | Model Size | # Training Tokens| token context window | Strength |
-| :---------: | :-------------------: | :-------------------: | :-------------- | :---------: | :---------: | :---------: | :---------: |
+| :---------: | :-------------------: | :-------------------: | :------------------ | :--------------: | :--------------: | :---------------: | :-------------: |
 | OpenAI | GPT-3 | |[paper](https://arxiv.org/abs/2005.14165) | | | | |
 | OpenAI | GPT-4 | Mar 14, 2023 | [Official](https://openai.com/research/gpt-4) | N/A | N/A | N/A |
 | Meta | LLaMA | February 24, 2023 | [Official](https://ai.meta.com/blog/large-language-model-llama-meta-ai/) [code](https://github.com/facebookresearch/llama/tree/main)|  N/A | N/A | N/A |
